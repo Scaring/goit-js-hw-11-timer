@@ -1,0 +1,22 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scaring/goit-js-hw-11-timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scaring/goit-js-hw-11-timer/issues"
+  },
+  "homepage": "https://github.com/Scaring/goit-js-hw-11-timer#readme",
+  "dependencies": {
+    "compass-mixins": "^0.12.10"
+  }
+}
